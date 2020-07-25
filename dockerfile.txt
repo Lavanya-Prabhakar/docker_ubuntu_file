@@ -1,4 +1,4 @@
-rom ubuntu
+From ubuntu
 
 MAINTAINER Lavanya Prabhakar/lavanyaprabhakarkitps@gmail.com@gmail.com
 
