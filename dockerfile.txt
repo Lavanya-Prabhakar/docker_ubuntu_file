@@ -1,6 +1,6 @@
 rom ubuntu
 
-MAINTAINER Lavanya Prabhakar/aarju.sinha024@gmail.com
+MAINTAINER Lavanya Prabhakar/lavanyaprabhakarkitps@gmail.com@gmail.com
 
 RUN   apt-get update \
 &&    apt-get install -y python3.6 \
