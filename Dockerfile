@@ -1,6 +1,6 @@
 From ubuntu
 
-MAINTAINER Lavanya Prabhakar/lavanyaprabhakarkitp@gmail.com
+MAINTAINER Lavanya Prabhakar/lavanyaprabhakarkitps@gmail.com
 
 RUN   apt-get update \
 &&    apt-get install -y python3.6 \
